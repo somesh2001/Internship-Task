@@ -1,4 +1,4 @@
-# Internship Task Internship task for visionary Services 
+# Internship task for visionary Services 
 ## Application installation guide 
 ### Run following commands in the project directory
 1. npm install (to install the dependencies )<br/>
