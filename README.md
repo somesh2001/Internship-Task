@@ -1,4 +1,5 @@
 # Internship Task Internship task for visionary Services 
 ## Application installation guide 
-1. Run - npm install (to install the dependencies)<br/>
-2. Run - npm start (to start the application)<br/>
+### Run following commands in the project directory
+1. npm install (to install the dependencies )<br/>
+2. npm start (to start the application)<br/>
